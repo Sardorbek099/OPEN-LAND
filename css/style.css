@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.border_bottom{
+    border-bottom: 1px solid yellow;
+}
+.for_border{
+    border: 1px solid yellow;
+}   
